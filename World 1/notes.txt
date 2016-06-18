@@ -1,0 +1,3 @@
+1. Check size of cycle u just found 
+2. if it's bigger than current max_clique size, then u check if it's a clique
+3. if not, continue to find other cycles  
